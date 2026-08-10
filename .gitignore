@@ -1,0 +1,12 @@
+# Secrets - never commit real Supabase keys
+config.js
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node (only if you later add tooling)
+node_modules/
+npm-debug.log*
