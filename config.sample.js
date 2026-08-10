@@ -3,6 +3,6 @@
    Use the ANON PUBLIC key only (never the service_role key).
    config.js is git-ignored so your keys are NOT committed. */
 window.APP_CONFIG = {
-  SUPABASE_URL: "PASTE_YOUR_PROJECT_URL_HERE",   // e.g. https://abcxyz.supabase.co
-  SUPABASE_KEY: "PASTE_YOUR_ANON_PUBLIC_KEY_HERE"
+  SUPABASE_URL: "https://ysjiywtqecakyiptuaqv.supabase.co",   // e.g. https://abcxyz.supabase.co
+  SUPABASE_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inlzaml5d3RxZWNha3lpcHR1YXF2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODYzMzg4NjcsImV4cCI6MjEwMTkxNDg2N30.x5UcobDwV-ViUgCVJfbccVJ9AZOioxLrFKDxb0SeVWw"
 };
